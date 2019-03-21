@@ -1,0 +1,134 @@
+html{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: #1f1f11;
+  font-family: sans-serif;
+  color: white;
+  font-size: 200px;
+}
+
+.image1{
+  position: absolute;
+  top: 0;
+  left: 80%;  
+}
+
+.image2{
+  position: absolute;
+  top: 20%;
+  left: 60%;
+
+}
+
+.image3{
+  position: absolute;
+  top: 55%;
+  left: 80%;  
+}
+
+.image3 .img3{
+  max-width: 90%;
+}
+
+.image4{
+  position: absolute;
+  top: 80%;
+  left: 0%;  
+}
+
+.image5{
+  position: absolute;
+  top: 80%;
+  left: 60%;  
+}
+
+.image6{
+  position: absolute;
+  top: 100%;
+  left: 80%;  
+}
+
+.image7{
+  position: absolute;
+  top: 120%;
+  left: 60%;  
+}
+
+.image8{
+  position: absolute;
+  top: 160%;
+  left: 60%;  
+}
+
+.image9{
+  position: absolute;
+  top: 160%;
+  left: 80%;  
+}
+
+.image10{
+  position: absolute;
+  top: 210%;
+  left: 60%;  
+}
+
+.image10 .img10{
+  max-width: 50%;
+}
+
+.box1{
+  background: #0008fd;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 30%;
+  left: 4%;
+
+}
+
+.box2{
+  background: #0008fd;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 56%;
+  left: 60%;
+  
+}
+
+.box3{
+  background: #0008fd;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 100%;
+  left: 12%;
+  
+}
+
+.box4{
+  background: #0008fd;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 160%;
+  left: 50%;
+}
+
+.box5{
+  background: #0008fd;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  top: 210%;
+  left: 12%;
+  
+}
